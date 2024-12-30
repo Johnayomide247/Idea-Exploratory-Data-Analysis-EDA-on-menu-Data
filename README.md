@@ -1,4 +1,4 @@
-# Idea Exploratory Data Analysis EDA on menu Data
+# Oasisinfobyte_Idea Exploratory Data Analysis EDA on menu Data
 Idea: to show and give nutritional insights 
 
 Menu Data using excel and powerbi for Experimental Data Analysis
